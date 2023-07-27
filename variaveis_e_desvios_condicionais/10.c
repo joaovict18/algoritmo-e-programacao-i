@@ -12,7 +12,7 @@ int main () {
 	if (quant < 5) {
 		pt = quant * 3;
 	} else {
-		pt = quant * 2,50;
+		pt = quant * 2.50;
 	}
 	
 	printf ("O valor total é %.2f", pt);
